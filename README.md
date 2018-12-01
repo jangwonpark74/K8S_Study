@@ -27,4 +27,7 @@
     Port 80 443
   3) Node Port : Utilizing IP tables
      Endpoint : P1, P2, Ports : 80 443
+
+## K8S kubernetes video
+  - https://www.udemy.com/docker-and-kubernetes-the-complete-guide/
      
