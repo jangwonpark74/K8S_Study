@@ -1,4 +1,4 @@
 # K8S_Study
 
 ## K8S network video 
-  - https://github.com/jangwonpark74/K8S_Study.git
+  - https://www.youtube.com/watch?v=WwQ62OyCNz4 
