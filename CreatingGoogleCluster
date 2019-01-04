@@ -36,3 +36,6 @@ $ kubectl set image deployment app app=gcr.io/google-samples/hello-app:2.0
 
 STEP 8: CONFIRM UPDADTE.
 $ curl http://198.51.100.92:80
+
+watch -n 1 kubectl get pods
+$ kubectl get pods 
