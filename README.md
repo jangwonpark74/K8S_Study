@@ -3,6 +3,8 @@
 ## K8S in 5 minutes
   - https://www.youtube.com/watch?v=PH-2FfFD2PU
 
+## K8s Webtu
+  - [Smooth Sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/?hl=ko)
 ## K8S network video 
   - https://www.youtube.com/watch?v=WwQ62OyCNz4
 
