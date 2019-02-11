@@ -38,3 +38,6 @@
  - [k8s OVN ](http://www.openvswitch.org//support/slides/OVN_LinuxCon_Toronto.pdf)
  - [OVN-Kubernetes github](https://github.com/openvswitch/ovn-kubernetes)
  - [Baker with ovswitching](http://www.openvswitch.org/support/boston2017/1530-han-zhou.pdf)
+ 
+## Tungsten Fabric vs OVS switching
+ - [Comparison between Tungsten Fabric vs OVS switching](https://ovsfall2018.sched.com/event/IO8Y/comparison-between-ovs-and-tungsten-fabric-vrouter)
