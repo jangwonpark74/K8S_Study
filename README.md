@@ -3,7 +3,7 @@
 ## K8S in 5 minutes
   - https://www.youtube.com/watch?v=PH-2FfFD2PU
 
-## K8s Webtu
+## K8s Webtune
   - [Smooth Sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/?hl=ko)
 ## K8S network video 
   - https://www.youtube.com/watch?v=WwQ62OyCNz4
@@ -37,3 +37,4 @@
  - [k8s openflow & OVS CNI](https://events.linuxfoundation.org/wp-content/uploads/2017/12/Kubernetes-Networking-Made-Easy-with-Open-vSwitch-and-OpenFlow-Péter-Megyesi-LeanNet-ltd..pdf)
  - [k8s OVN ](http://www.openvswitch.org//support/slides/OVN_LinuxCon_Toronto.pdf)
  - [OVN-Kubernetes github](https://github.com/openvswitch/ovn-kubernetes)
+ - [Baker with ovswitching](http://www.openvswitch.org/support/boston2017/1530-han-zhou.pdf)
