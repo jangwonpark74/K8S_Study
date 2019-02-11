@@ -32,4 +32,6 @@
 
 ## K8S kubernetes video
   - https://www.udemy.com/docker-and-kubernetes-the-complete-guide/
-     
+
+## K8S CNI networking
+ - [k8s openflow & OVS CNI](https://events.linuxfoundation.org/wp-content/uploads/2017/12/Kubernetes-Networking-Made-Easy-with-Open-vSwitch-and-OpenFlow-Péter-Megyesi-LeanNet-ltd..pdf)
