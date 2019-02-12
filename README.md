@@ -41,3 +41,7 @@
  
 ## Tungsten Fabric vs OVS switching
  - [Comparison between Tungsten Fabric vs OVS switching](https://ovsfall2018.sched.com/event/IO8Y/comparison-between-ovs-and-tungsten-fabric-vrouter)
+ 
+## Kubernetes vs Openshift
+ - [Kubernetes vs Openshift 10 most difference](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/)
+ 
