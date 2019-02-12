@@ -45,3 +45,6 @@
 ## Kubernetes vs Openshift
  - [Kubernetes vs Openshift 10 most difference](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/)
  
+## Kubernetes Hyperflex Integration
+ - [Cisco Hyperflex] (https://www.cisco.com/c/en/us/td/docs/hyperconverged_systems/HyperFlex_HX_DataPlatformSoftware/HyperFlex_Kubernetes_Administration_Guide/3_5/b_Cisco_HyperFlex_Systems_Administration_Guide_for_Kubernetes/b_Cisco_HyperFlex_Systems_Administration_Guide_for_Kubernetes_chapter_00.html)
+ 
