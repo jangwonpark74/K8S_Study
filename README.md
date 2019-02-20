@@ -33,6 +33,9 @@
 ## K8S kubernetes video
   - https://www.udemy.com/docker-and-kubernetes-the-complete-guide/
 
+## Cisco K8S CNI with ACI & APIC
+ - [Cisco K8S CNI solution](https://www.cisco.com/c/dam/global/da_dk/assets/pdfs/cisco_tech_update_aci_og_container_networking.pdf)
+
 ## K8S CNI networking
  - [k8s openflow & OVS CNI](https://events.linuxfoundation.org/wp-content/uploads/2017/12/Kubernetes-Networking-Made-Easy-with-Open-vSwitch-and-OpenFlow-Péter-Megyesi-LeanNet-ltd..pdf)
  - [k8s OVN ](http://www.openvswitch.org//support/slides/OVN_LinuxCon_Toronto.pdf)
