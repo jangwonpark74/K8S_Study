@@ -15,3 +15,4 @@
  
  # OVS with go
  - [Open vSwitch with go](https://www.youtube.com/watch?v=45PpBbqB2Z0&index=33&list=PLaJlRa-xItwD7ikTsrZOhju5xbE-QP9U1)
+ - [Digital Ocean go-ovswitch](https://github.com/digitalocean/go-openvswitch/tree/master/ovs)
