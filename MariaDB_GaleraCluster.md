@@ -1,3 +1,5 @@
 # MariaDB Galera Cluster 
 
-https://bryan.wiki/archive/201810
+- [Info](https://bryan.wiki/archive/201810)
+- [설치 가이드](https://bryan.wiki/246)
+
