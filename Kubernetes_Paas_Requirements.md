@@ -1,3 +1,3 @@
 # Pivotal 
 
--[Pivotal](https://content.pivotal.io/blog/3-reasons-behind-t-mobile-s-success-with-kubernetes?utm_source=pivotal-newsletter&utm_medium=email-link&utm_campaign=external-newsletter&mkt_tok=eyJpIjoiTW1VM01HSTRPVGd4WkdReSIsInQiOiJvS0NoUHU0ajIwY0pZOE0rcXBwYnVEUURjTlhHUFJlZmNVRytHeE1vVyt0aDZLVk9lK2JJZFg5UFM1SFlCN1pkSEVOV2dtbVFxNm44V0t2WnV1R3JqdjBQSDBKdDdSelJnXC9aXC9NandHKzd1WnFZQmZPcGpJOXhrdElOMURcL3VFMiJ9)
+-[Pivotal's T-Mobile Example](https://content.pivotal.io/blog/3-reasons-behind-t-mobile-s-success-with-kubernetes?utm_source=pivotal-newsletter&utm_medium=email-link&utm_campaign=external-newsletter&mkt_tok=eyJpIjoiTW1VM01HSTRPVGd4WkdReSIsInQiOiJvS0NoUHU0ajIwY0pZOE0rcXBwYnVEUURjTlhHUFJlZmNVRytHeE1vVyt0aDZLVk9lK2JJZFg5UFM1SFlCN1pkSEVOV2dtbVFxNm44V0t2WnV1R3JqdjBQSDBKdDdSelJnXC9aXC9NandHKzd1WnFZQmZPcGpJOXhrdElOMURcL3VFMiJ9)
