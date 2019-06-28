@@ -6,5 +6,9 @@
 # KodeKloud
 - [KodeKloud for CKA](https://www.kodekloud.com/)
 
+## Kubernetes for Absolute Beginner
+- [Hands on](https://www.kodekloud.com/p/kubernetes-for-the-absolute-beginners-hands-on)
+
+
 # Kubernetes the Hard Way
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
