@@ -5,3 +5,6 @@
 
 # KodeKloud
 - [KodeKloud for CKA](https://www.kodekloud.com/)
+
+# Kubernetes the Hard Way
+- [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
