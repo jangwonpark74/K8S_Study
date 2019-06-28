@@ -3,6 +3,7 @@
 
 # Docker cheatsheet
 - [Docker simple cheatsheet](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf)
+- [Docker cheatsheet v2](https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf)
 
 # CKA 합격 후기 
 - [Certified Kubernetes Administrator 합격 후기](https://coffeewhale.com/kubernetes/cka/2019/01/13/cak/)
