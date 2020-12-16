@@ -7,7 +7,7 @@
  - [OVS performance : mellanox](https://www.slideshare.net/LF_OpenvSwitch/lfovs17ovs-performance-on-steroids-hardware-acceleration-methodologies)
  
 # OVS Offload with TC Flower
- -[OVS hardware offload with tc-flower ](https://www.slideshare.net/LF_OpenvSwitch/lfovs17ovs-hardware-offload-with-tc-flower)
+ - [OVS hardware offload with tc-flower ](https://www.slideshare.net/LF_OpenvSwitch/lfovs17ovs-hardware-offload-with-tc-flower)
 
 # OVS FPGA Offloading
  - [Axonerve video](https://www.youtube.com/watch?v=u-5YJvj3T-Q&index=9&list=PLaJlRa-xItwD7ikTsrZOhju5xbE-QP9U1)
