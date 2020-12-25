@@ -16,5 +16,5 @@
 ### etcd's hard storage limit : by default it's 2GB ( over 1000 nodes) 
 
 ## K8S autoscheduler by OpenAI 
-- K8S auto scheduler [https://github.com/openai/kubernetes-ec2-autoscaler]  
+- [K8S auto scheduler](https://github.com/openai/kubernetes-ec2-autoscaler)
 
